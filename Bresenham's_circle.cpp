@@ -32,7 +32,7 @@ void midpointCircle(int xc,int yc,int r)
         else
             p+=2*x+1;
 
-        delay(10);
+        delay(1);
     }
 }
 
